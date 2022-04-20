@@ -1,6 +1,0 @@
-git lfs install
-git lfs track "*.zip"
-git add .gitattributes
-git add Data.zip
-git commit -m "Add data file"
-git push main origin
