@@ -4,7 +4,7 @@ Our program was split into multiple individual, smaller programs that all help a
 Each program builds off of the last one, using the output of one program as the input of the next, etc.
 Run them in the following order:
 
-1. Download the data files. These contain both PSG and Hypnogram data, such as the formats "SC4001E0-PSG.edf" and "SC4001EC-Hypnogram.edf," respectively. Both of these will be used by the program
+1. Download the data files. These contain both PSG and Hypnogram data, such as the formats "SC4001E0-PSG.edf" and "SC4001EC-Hypnogram.txt," respectively. Both of these will be used by the program
   
 2. The Project_Data_Extraction file takes the raw data, which is in a timeseries format, and extracts it, putting it into a matrix
 
