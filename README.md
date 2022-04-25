@@ -10,7 +10,7 @@ Run them in the following order:
 
 3. The From_Label_To_Vector file extracts the sleep stage data from the text data, putting it into a matrix that can be used by later programs
 
-4. The From_Mat_to_Model file takes the matrix and runs it through an LDA model to create a machine learning to predict sleep stages of data that can be input
+4. The From_Mat_to_Model file takes the matrix and runs it through an LDA model to create a machine learning model to predict sleep stages of data that can be input
 into the model; it then computes its accuracy of predicting sleep stages
 
 5. The Patient_Sleep_Stages file looks at individual patients and determines the amount of time the patient spent in each sleep stage by putting data from
